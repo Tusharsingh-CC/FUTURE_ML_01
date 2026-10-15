@@ -1,0 +1,7 @@
+,MAE,RMSE,MAPE %,MAE vs baseline
+Holt-Winters (damped),10896.63,14117.72,18.51,29.55
+Holt-Winters,11453.69,12541.79,22.59,25.95
+Seasonal Naive (baseline),15467.89,18985.7,24.52,0.0
+Random Forest,12952.67,15793.49,24.8,16.26
+SARIMA,13326.08,15815.23,26.52,13.85
+Linear Regression,17384.42,20786.2,40.07,-12.39
